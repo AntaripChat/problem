@@ -20,3 +20,4 @@ arr = [1,2,4,5,7,9]
 x = 8
 result = binarySearch(arr,0,len(arr)-1,x)
 print(result)
+##Simple Binary Search algorithm 
