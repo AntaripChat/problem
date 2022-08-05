@@ -16,3 +16,5 @@ int main(){
     cout<<sumarr(arr,n);
     return 0;
 }
+
+////---------
