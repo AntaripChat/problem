@@ -34,5 +34,6 @@ int main(){
         case 6: cout<<"\nSaturday\n";
         break;
     }
+  
     return 0;
 }
