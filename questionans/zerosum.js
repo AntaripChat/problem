@@ -7,7 +7,7 @@ for(let i = 0; i < n; i++){
       if(sum = 0) return true;
       else if (sum > 0) n--;
       else i++;
-            }
+          }
 }
 
 // link https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1?page=1&difficulty[]=-1&category[]=Arrays&sortBy=submissions
