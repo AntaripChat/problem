@@ -21,3 +21,4 @@ x = 8
 result = binarySearch(arr,0,len(arr)-1,x)
 print(result)
 ##Simple Binary Search algorithm 
+
